@@ -1,14 +1,13 @@
 {
-  "type": "create:compacting",
-  "input": [
-    {
-      "item": "minecraft:charcoal"
-    }
-  ],
-  "results": [
-    {
-      "count": 1,
-      "item": "minecraft:coal"
-    }
-  ]
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:charcoal"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:coal"
+        }
+    ]
 }

@@ -1,17 +1,18 @@
 {
-  "type": "create:filling",
-  "input": [
-    {
-      "item": "minecraft:golden_apple"
-    },
-    {
-      "fluid": "create_enchantment_industry:experience",
-      "amount": 1000
-    }
-  ],
-  "results": [
-    {
-      "item": "minecraft:enchanted_golden_apple"
-    }
-  ]
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "minecraft:golden_apple"
+        },
+        {
+            "type": "fluid_stack",
+            "amount": 1000,
+            "fluid": "create_enchantment_industry:experience"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:enchanted_golden_apple"
+        }
+    ]
 }

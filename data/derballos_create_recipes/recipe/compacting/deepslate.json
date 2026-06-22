@@ -1,19 +1,19 @@
 {
-  "type": "create:compacting",
-  "heatRequirement": "superheated",
-  "input": [
-    {
-      "item": "minecraft:cobblestone"
-    },
-    {
-      "amount": 100,
-      "fluid": "minecraft:lava",
-      "nbt": {}
-    }
-  ],
-  "results": [
-    {
-      "item": "minecraft:deepslate"
-    }
-  ]
+    "type": "create:compacting",
+    "heatRequirement": "superheated",
+    "ingredients": [
+        {
+            "item": "minecraft:cobblestone"
+        },
+        {
+            "type": "fluid_stack",
+            "amount": 100,
+            "fluid": "minecraft:lava"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:deepslate"
+        }
+    ]
 }

@@ -1,15 +1,14 @@
 {
-  "type": "create:crushing",
-  "input": [
-    {
-      "tag": "create:stone_types/limestone"
-    }
-  ],
-  "processingTime": 350,
-  "results": [
-    {
-      "chance": 0.25,
-      "item": "minecraft:calcite"
-    }
-  ]
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "tag": "create:stone_types/limestone"
+        }
+    ],
+    "results": [
+        {
+            "chance": 0.25,
+            "id": "minecraft:calcite"
+        }
+    ]
 }

@@ -1,17 +1,17 @@
 {
-  "type": "create:compacting",
-  "input": [
-    {
-      "item": "minecraft:basalt"
-    },
-    {
-      "item": "minecraft:andesite"
-    }
-  ],
-  "results": [
-    {
-      "count": 2,
-      "item": "minecraft:tuff"
-    }
-  ]
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:basalt"
+        },
+        {
+            "item": "minecraft:andesite"
+        }
+    ],
+    "results": [
+        {
+            "count": 2,
+            "id": "minecraft:tuff"
+        }
+    ]
 }

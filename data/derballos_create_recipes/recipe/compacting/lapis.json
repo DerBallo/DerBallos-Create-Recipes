@@ -1,21 +1,21 @@
 {
-  "type": "create:compacting",
-  "heatRequirement": "heated",
-  "input": [
-    {
-      "item": "minecraft:netherrack"
-    },
-    {
-      "item": "minecraft:diorite"
-    },
-    {
-      "item": "minecraft:calcite"
-    }
-  ],
-  "results": [
-    {
-      "count": 9,
-      "item": "minecraft:lapis_lazuli"
-    }
-  ]
+    "type": "create:compacting",
+    "heatRequirement": "heated",
+    "ingredients": [
+        {
+            "item": "minecraft:netherrack"
+        },
+        {
+            "item": "minecraft:diorite"
+        },
+        {
+            "item": "minecraft:calcite"
+        }
+    ],
+    "results": [
+        {
+            "count": 9,
+            "id": "minecraft:lapis_lazuli"
+        }
+    ]
 }
