@@ -1,7 +1,7 @@
 {
   "type": "create:compacting",
   "heatRequirement": "superheated",
-  "ingredients": [
+  "input": [
     {
       "item": "minecraft:cobblestone"
     },

@@ -1,6 +1,6 @@
 {
   "type": "create:haunting",
-  "ingredients": [
+  "input": [
     {
       "item": "minecraft:poppy"
     }

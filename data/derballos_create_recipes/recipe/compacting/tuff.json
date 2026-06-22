@@ -1,6 +1,6 @@
 {
   "type": "create:compacting",
-  "ingredients": [
+  "input": [
     {
       "item": "minecraft:basalt"
     },

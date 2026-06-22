@@ -1,6 +1,6 @@
 {
   "type": "create:crushing",
-  "ingredients": [
+  "input": [
     {
       "tag": "create:stone_types/limestone"
     }

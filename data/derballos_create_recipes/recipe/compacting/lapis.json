@@ -1,7 +1,7 @@
 {
   "type": "create:compacting",
   "heatRequirement": "heated",
-  "ingredients": [
+  "input": [
     {
       "item": "minecraft:netherrack"
     },

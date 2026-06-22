@@ -1,12 +1,12 @@
 {
   "type": "create:filling",
-  "ingredients": [
+  "input": [
     {
       "item": "minecraft:leather"
     },
     {
       "fluid": "create_enchantment_industry:ink",
-      "amount": 810
+      "amount": 10
     }
   ],
   "results": [
