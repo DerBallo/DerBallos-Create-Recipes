@@ -6,7 +6,7 @@
       "item": "minecraft:cobblestone"
     },
     {
-      "amount": 8100,
+      "amount": 100,
       "fluid": "minecraft:lava",
       "nbt": {}
     }
